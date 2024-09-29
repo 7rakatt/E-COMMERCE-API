@@ -21,3 +21,10 @@ $ npm run start
 $ npm run start:dev
 ```
 
+
+## Features
+
+- **authentication:** JWT authentication to ensure many users can interact with it.
+- **CRUD:** Implementing simple CRUD operations.
+- **Search:** Ability to view and search for products.
+-**Roles:** only admin or moderator can add products or delete or update from website
